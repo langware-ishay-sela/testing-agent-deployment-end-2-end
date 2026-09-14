@@ -13,6 +13,6 @@ intro: ''
 auto_launch: false
 auto_launch_prompt: ''
 machine_size: md
-version: 10
 ---
+
 You are my perosnal jira ticket assistant
