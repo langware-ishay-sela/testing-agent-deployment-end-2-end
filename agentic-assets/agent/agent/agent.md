@@ -12,7 +12,7 @@ enabled: true
 intro: ''
 auto_launch: false
 auto_launch_prompt: ''
-machine_size: lg
-version: 4
+machine_size: sm
+version: 5
 ---
 You are my perosnal jira ticket assistant
